@@ -1,6 +1,6 @@
 
 module.exports = {
-    HOST: 'postgres://prmfcqcl:pH4QEnch_OllWvCHvB1joaykE119WtlJ@isilo.db.elephantsql.com/prmfcqcl',
+    HOST: 'isilo.db.elephantsql.com',
     USER: 'prmfcqcl',
     PASSWORD: 'pH4QEnch_OllWvCHvB1joaykE119WtlJ',
     DB: 'prmfcqcl',

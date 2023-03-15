@@ -3,7 +3,7 @@
       "username": "prmfcqcl",
       "password": "pH4QEnch_OllWvCHvB1joaykE119WtlJ",
       "database": "prmfcqcl",
-      "host": "postgres://prmfcqcl:pH4QEnch_OllWvCHvB1joaykE119WtlJ@isilo.db.elephantsql.com/prmfcqcl",
+      "host": "isilo.db.elephantsql.com",
       "dialect": "postgres"
   },
   "test": {
@@ -17,7 +17,7 @@
     "username": "prmfcqcl",
     "password": "pH4QEnch_OllWvCHvB1joaykE119WtlJ",
     "database": "prmfcqcl",
-    "host": "postgres://prmfcqcl:pH4QEnch_OllWvCHvB1joaykE119WtlJ@isilo.db.elephantsql.com/prmfcqcl",
+    "host": "isilo.db.elephantsql.com",
     "dialect": "postgres"
   }
  
