@@ -1,0 +1,24 @@
+{
+  "development": {
+      "username": "prmfcqcl",
+      "password": "pH4QEnch_OllWvCHvB1joaykE119WtlJ",
+      "database": "prmfcqcl",
+      "host": "postgres://prmfcqcl:pH4QEnch_OllWvCHvB1joaykE119WtlJ@isilo.db.elephantsql.com/prmfcqcl",
+      "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "prmfcqcl",
+    "password": "pH4QEnch_OllWvCHvB1joaykE119WtlJ",
+    "database": "prmfcqcl",
+    "host": "postgres://prmfcqcl:pH4QEnch_OllWvCHvB1joaykE119WtlJ@isilo.db.elephantsql.com/prmfcqcl",
+    "dialect": "postgres"
+  }
+ 
+}
