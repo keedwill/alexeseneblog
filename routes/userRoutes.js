@@ -7,7 +7,7 @@ const multer = require('../middleware/multerConfig')
 const limitAttempt = require('../middleware/loginAttempt')
 
 router.post('/signup', passwordChecker, userCtrl.signup)
-router.post('/login', limitAttempt, userCtrl.login)
+router.post('/login',  userCtrl.login)
 
 router.get('/:id', auth, userCtrl.getUser)
 router.delete('/:id', auth, userCtrl.deleteUser)
