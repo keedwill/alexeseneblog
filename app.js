@@ -22,7 +22,7 @@ app.use(xssClean())
 
 // Connecting to the db - sequelize
 const db = require('./models')
-db.sequelize.sync({ force: true });
+db.sequelize.sync();
 
 // // Drop the table if it already exists
 // db.sequelize.sync({ force: true }).then(() => {
